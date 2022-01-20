@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial';
+  margin: 0;
+  min-width: 0px;
+}
+
+.table {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 80%;
+  min-width: 400px;
+}
+
+.table-tr-header {
+  background: #bbb;
+  border: 1px solid #000;
+  text-align: center;
+  width: 100px;
+}
+
+.table-tr-row {
+  background: #eee;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
